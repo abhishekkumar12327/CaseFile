@@ -1,0 +1,25 @@
+services:
+  # 1. FastAPI Backend Web Service
+  - type: web
+    name: casefile-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+
+  # 2. Streamlit Frontend Web Service
+  - type: web
+    name: casefile-frontend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: API_BASE
+        fromService:
+          type: web
+          name: casefile-backend
+          property: host
