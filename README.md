@@ -1,4 +1,4 @@
-# 🇮🇳 CASEFILE — AI-Powered Geospatial Movement Analysis & Investigation Support
+# CASEFILE — AI-Powered Geospatial Movement Analysis & Investigation Support
 
 An advanced, privacy-compliant **AI & Geospatial Investigation Support System** designed to assist investigation teams in analyzing movement trajectories, detecting spatial anomalies, predicting probable destination areas, and generating transparent model explanations visualized on interactive satellite imagery.
 

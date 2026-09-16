@@ -147,7 +147,7 @@ if "selected_area_idx" not in st.session_state:
 # ─── Clean Production Sidebar (No Clutter) ───────────────────────────────
 
 with st.sidebar:
-    st.markdown("## 🇮🇳 CASEFILE")
+    st.markdown("## 🔍 CASEFILE")
     st.caption("Geospatial Investigation Support System")
     st.markdown("---")
 
