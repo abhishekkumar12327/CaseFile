@@ -1,0 +1,82 @@
+{
+  "location_prediction": {
+    "model_type": "XGBoost Classifier",
+    "accuracy": 0.99,
+    "precision_macro": 0.9907,
+    "recall_macro": 0.9896,
+    "f1_macro": 0.9899,
+    "top_1_accuracy": 0.99,
+    "top_3_accuracy": 1.0,
+    "top_5_accuracy": 1.0,
+    "classes": [
+      "Aerocity Hub",
+      "Connaught Place Hub",
+      "Cyber City Gurgaon",
+      "Dwarka Sector 21",
+      "Hauz Khas Village",
+      "Noida Sector 18"
+    ],
+    "confusion_matrix": [
+      [
+        17,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        16,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        15,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        21,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        16
+      ]
+    ]
+  },
+  "anomaly_detection": {
+    "contamination_rate": 0.05,
+    "anomalies_flagged_count": 375,
+    "total_points_trained": 7498,
+    "false_positive_rate": 0.03,
+    "false_negative_rate": 0.08
+  },
+  "route_prediction": {
+    "source_grid_cells": 246,
+    "total_transitions_mapped": 888
+  },
+  "clustering_notes": "Uses scipy K-Means & spatial density clustering due to Windows OS Application Control policy blocking sklearn.cluster._k_means_common.pyd"
+}

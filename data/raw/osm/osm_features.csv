@@ -1,0 +1,201 @@
+poi_id,name,category,district,latitude,longitude,amenity_type
+OSM_IND_0001,Faridabad Metro Station 1,Metro Station,Faridabad,28.412813,76.994337,metro_station
+OSM_IND_0002,North Delhi Commercial Center 2,Commercial Center,North Delhi,28.530204,77.217436,commercial_center
+OSM_IND_0003,West Delhi Park 3,Park,West Delhi,28.7505,77.390635,park
+OSM_IND_0004,Gurgaon Police Station 4,Police Station,Gurgaon,28.411474,77.224627,police_station
+OSM_IND_0005,North Delhi Market 5,Market,North Delhi,28.661566,77.326094,market
+OSM_IND_0006,Gurgaon Police Station 6,Police Station,Gurgaon,28.67522,77.420456,police_station
+OSM_IND_0007,Central Delhi Road Intersection 7,Road Intersection,Central Delhi,28.605426,77.354673,road_intersection
+OSM_IND_0008,Faridabad Police Station 8,Police Station,Faridabad,28.671184,77.225201,police_station
+OSM_IND_0009,Noida Road Intersection 9,Road Intersection,Noida,28.643883,77.402234,road_intersection
+OSM_IND_0010,West Delhi Commercial Center 10,Commercial Center,West Delhi,28.501092,77.273835,commercial_center
+OSM_IND_0011,West Delhi Hospital 11,Hospital,West Delhi,28.777758,76.977198,hospital
+OSM_IND_0012,Gurgaon Market 12,Market,Gurgaon,28.758766,77.374392,market
+OSM_IND_0013,Noida Market 13,Market,Noida,28.471802,77.051565,market
+OSM_IND_0014,West Delhi Road Intersection 14,Road Intersection,West Delhi,28.40418,77.142247,road_intersection
+OSM_IND_0015,Faridabad Market 15,Market,Faridabad,28.587418,77.301309,market
+OSM_IND_0016,North Delhi Commercial Center 16,Commercial Center,North Delhi,28.80206,77.030355,commercial_center
+OSM_IND_0017,Faridabad Metro Station 17,Metro Station,Faridabad,28.599066,77.382673,metro_station
+OSM_IND_0018,Faridabad School 18,School,Faridabad,28.528306,77.152197,school
+OSM_IND_0019,Central Delhi Park 19,Park,Central Delhi,28.747615,77.179835,park
+OSM_IND_0020,Faridabad Park 20,Park,Faridabad,28.76552,77.268643,park
+OSM_IND_0021,South Delhi Road Intersection 21,Road Intersection,South Delhi,28.591056,77.261127,road_intersection
+OSM_IND_0022,North Delhi Commercial Center 22,Commercial Center,North Delhi,28.696966,77.191293,commercial_center
+OSM_IND_0023,Faridabad Park 23,Park,Faridabad,28.442191,77.331487,park
+OSM_IND_0024,Gurgaon Park 24,Park,Gurgaon,28.712785,77.173277,park
+OSM_IND_0025,West Delhi School 25,School,West Delhi,28.534559,77.025211,school
+OSM_IND_0026,Gurgaon Residential Area 26,Residential Area,Gurgaon,28.806787,76.944057,residential_area
+OSM_IND_0027,Central Delhi Market 27,Market,Central Delhi,28.683881,77.107868,market
+OSM_IND_0028,West Delhi Road Intersection 28,Road Intersection,West Delhi,28.778999,77.111716,road_intersection
+OSM_IND_0029,West Delhi Police Station 29,Police Station,West Delhi,28.719742,77.271403,police_station
+OSM_IND_0030,North Delhi Railway Station 30,Railway Station,North Delhi,28.554106,77.126815,railway_station
+OSM_IND_0031,Central Delhi Metro Station 31,Metro Station,Central Delhi,28.529851,76.981021,metro_station
+OSM_IND_0032,South Delhi School 32,School,South Delhi,28.488899,77.188374,school
+OSM_IND_0033,West Delhi School 33,School,West Delhi,28.81643,77.356405,school
+OSM_IND_0034,Faridabad Metro Station 34,Metro Station,Faridabad,28.47851,77.10104,metro_station
+OSM_IND_0035,Noida School 35,School,Noida,28.624378,76.976042,school
+OSM_IND_0036,North Delhi Railway Station 36,Railway Station,North Delhi,28.565891,77.140339,railway_station
+OSM_IND_0037,Central Delhi Railway Station 37,Railway Station,Central Delhi,28.69402,77.114742,railway_station
+OSM_IND_0038,Noida Commercial Center 38,Commercial Center,Noida,28.563023,77.096076,commercial_center
+OSM_IND_0039,North Delhi Commercial Center 39,Commercial Center,North Delhi,28.49079,77.031815,commercial_center
+OSM_IND_0040,West Delhi Commercial Center 40,Commercial Center,West Delhi,28.491468,77.0841,commercial_center
+OSM_IND_0041,Faridabad Metro Station 41,Metro Station,Faridabad,28.783153,77.362189,metro_station
+OSM_IND_0042,North Delhi Hospital 42,Hospital,North Delhi,28.536198,77.338605,hospital
+OSM_IND_0043,Central Delhi Road Intersection 43,Road Intersection,Central Delhi,28.812774,77.329515,road_intersection
+OSM_IND_0044,South Delhi School 44,School,South Delhi,28.774207,77.011763,school
+OSM_IND_0045,South Delhi Metro Station 45,Metro Station,South Delhi,28.798269,77.052032,metro_station
+OSM_IND_0046,Faridabad Railway Station 46,Railway Station,Faridabad,28.792665,76.948873,railway_station
+OSM_IND_0047,Gurgaon Park 47,Park,Gurgaon,28.420164,77.216761,park
+OSM_IND_0048,West Delhi Railway Station 48,Railway Station,West Delhi,28.518873,77.255967,railway_station
+OSM_IND_0049,Gurgaon Market 49,Market,Gurgaon,28.535971,77.230265,market
+OSM_IND_0050,Central Delhi Residential Area 50,Residential Area,Central Delhi,28.541053,77.307645,residential_area
+OSM_IND_0051,North Delhi Metro Station 51,Metro Station,North Delhi,28.451315,77.241092,metro_station
+OSM_IND_0052,Noida Market 52,Market,Noida,28.766975,77.379824,market
+OSM_IND_0053,West Delhi Commercial Center 53,Commercial Center,West Delhi,28.545146,77.136627,commercial_center
+OSM_IND_0054,Faridabad Railway Station 54,Railway Station,Faridabad,28.597553,77.123054,railway_station
+OSM_IND_0055,Faridabad Commercial Center 55,Commercial Center,Faridabad,28.456747,77.026216,commercial_center
+OSM_IND_0056,South Delhi Commercial Center 56,Commercial Center,South Delhi,28.484721,77.106838,commercial_center
+OSM_IND_0057,North Delhi Hospital 57,Hospital,North Delhi,28.76294,76.97179,hospital
+OSM_IND_0058,Gurgaon Residential Area 58,Residential Area,Gurgaon,28.692798,77.149177,residential_area
+OSM_IND_0059,South Delhi Residential Area 59,Residential Area,South Delhi,28.531576,77.001337,residential_area
+OSM_IND_0060,West Delhi Road Intersection 60,Road Intersection,West Delhi,28.415955,76.933049,road_intersection
+OSM_IND_0061,Noida Park 61,Park,Noida,28.842194,77.31363,park
+OSM_IND_0062,Gurgaon Residential Area 62,Residential Area,Gurgaon,28.608072,76.937101,residential_area
+OSM_IND_0063,Noida Commercial Center 63,Commercial Center,Noida,28.414645,77.24315,commercial_center
+OSM_IND_0064,Central Delhi Road Intersection 64,Road Intersection,Central Delhi,28.674048,77.37446,road_intersection
+OSM_IND_0065,Faridabad Road Intersection 65,Road Intersection,Faridabad,28.830236,76.9691,road_intersection
+OSM_IND_0066,Gurgaon Road Intersection 66,Road Intersection,Gurgaon,28.476553,77.319607,road_intersection
+OSM_IND_0067,Central Delhi Commercial Center 67,Commercial Center,Central Delhi,28.577897,77.069714,commercial_center
+OSM_IND_0068,West Delhi Market 68,Market,West Delhi,28.400554,77.244258,market
+OSM_IND_0069,Central Delhi Road Intersection 69,Road Intersection,Central Delhi,28.582514,77.274659,road_intersection
+OSM_IND_0070,Gurgaon Metro Station 70,Metro Station,Gurgaon,28.756919,76.997364,metro_station
+OSM_IND_0071,West Delhi Metro Station 71,Metro Station,West Delhi,28.514989,77.027973,metro_station
+OSM_IND_0072,Noida Road Intersection 72,Road Intersection,Noida,28.824553,77.162801,road_intersection
+OSM_IND_0073,West Delhi Residential Area 73,Residential Area,West Delhi,28.642716,76.955001,residential_area
+OSM_IND_0074,West Delhi Police Station 74,Police Station,West Delhi,28.465024,77.302649,police_station
+OSM_IND_0075,South Delhi Market 75,Market,South Delhi,28.65915,77.280136,market
+OSM_IND_0076,West Delhi Market 76,Market,West Delhi,28.775081,77.322413,market
+OSM_IND_0077,West Delhi Commercial Center 77,Commercial Center,West Delhi,28.537621,77.354247,commercial_center
+OSM_IND_0078,North Delhi Railway Station 78,Railway Station,North Delhi,28.511659,76.9069,railway_station
+OSM_IND_0079,North Delhi Park 79,Park,North Delhi,28.576799,77.340716,park
+OSM_IND_0080,Noida Police Station 80,Police Station,Noida,28.739852,77.267968,police_station
+OSM_IND_0081,Gurgaon Metro Station 81,Metro Station,Gurgaon,28.477979,77.07615,metro_station
+OSM_IND_0082,South Delhi Commercial Center 82,Commercial Center,South Delhi,28.826019,76.98291,commercial_center
+OSM_IND_0083,Central Delhi Police Station 83,Police Station,Central Delhi,28.800392,77.449542,police_station
+OSM_IND_0084,West Delhi Park 84,Park,West Delhi,28.400544,76.948635,park
+OSM_IND_0085,North Delhi Commercial Center 85,Commercial Center,North Delhi,28.70085,77.128061,commercial_center
+OSM_IND_0086,Noida Residential Area 86,Residential Area,Noida,28.637754,77.086134,residential_area
+OSM_IND_0087,Central Delhi Police Station 87,Police Station,Central Delhi,28.568123,77.395395,police_station
+OSM_IND_0088,North Delhi Market 88,Market,North Delhi,28.658428,77.23947,market
+OSM_IND_0089,Noida Park 89,Park,Noida,28.410898,77.288613,park
+OSM_IND_0090,Central Delhi Railway Station 90,Railway Station,Central Delhi,28.647166,77.287015,railway_station
+OSM_IND_0091,North Delhi School 91,School,North Delhi,28.454769,76.943872,school
+OSM_IND_0092,Central Delhi Police Station 92,Police Station,Central Delhi,28.540668,77.054477,police_station
+OSM_IND_0093,Noida Road Intersection 93,Road Intersection,Noida,28.601445,77.224194,road_intersection
+OSM_IND_0094,Gurgaon Market 94,Market,Gurgaon,28.849282,77.105649,market
+OSM_IND_0095,Gurgaon Road Intersection 95,Road Intersection,Gurgaon,28.681745,76.971635,road_intersection
+OSM_IND_0096,South Delhi Metro Station 96,Metro Station,South Delhi,28.742277,77.403934,metro_station
+OSM_IND_0097,Noida Commercial Center 97,Commercial Center,Noida,28.837898,77.205544,commercial_center
+OSM_IND_0098,North Delhi Market 98,Market,North Delhi,28.503446,77.024503,market
+OSM_IND_0099,West Delhi Road Intersection 99,Road Intersection,West Delhi,28.615004,77.292384,road_intersection
+OSM_IND_0100,North Delhi Hospital 100,Hospital,North Delhi,28.798985,77.015306,hospital
+OSM_IND_0101,Gurgaon Police Station 101,Police Station,Gurgaon,28.489445,77.189502,police_station
+OSM_IND_0102,South Delhi Police Station 102,Police Station,South Delhi,28.631202,76.923503,police_station
+OSM_IND_0103,Gurgaon Police Station 103,Police Station,Gurgaon,28.416278,77.383984,police_station
+OSM_IND_0104,Gurgaon Market 104,Market,Gurgaon,28.612441,77.067133,market
+OSM_IND_0105,Noida Metro Station 105,Metro Station,Noida,28.404324,76.952292,metro_station
+OSM_IND_0106,South Delhi Metro Station 106,Metro Station,South Delhi,28.583656,77.364968,metro_station
+OSM_IND_0107,Central Delhi Park 107,Park,Central Delhi,28.736435,77.26192,park
+OSM_IND_0108,North Delhi Road Intersection 108,Road Intersection,North Delhi,28.808964,76.991358,road_intersection
+OSM_IND_0109,South Delhi Railway Station 109,Railway Station,South Delhi,28.573989,77.226601,railway_station
+OSM_IND_0110,Gurgaon Railway Station 110,Railway Station,Gurgaon,28.811877,76.948101,railway_station
+OSM_IND_0111,Noida School 111,School,Noida,28.640889,77.378712,school
+OSM_IND_0112,Gurgaon School 112,School,Gurgaon,28.80163,77.188966,school
+OSM_IND_0113,Noida Police Station 113,Police Station,Noida,28.746748,76.91935,police_station
+OSM_IND_0114,Central Delhi Road Intersection 114,Road Intersection,Central Delhi,28.681506,76.97491,road_intersection
+OSM_IND_0115,West Delhi Residential Area 115,Residential Area,West Delhi,28.414533,77.371524,residential_area
+OSM_IND_0116,Central Delhi Park 116,Park,Central Delhi,28.501316,77.266704,park
+OSM_IND_0117,Noida Road Intersection 117,Road Intersection,Noida,28.690094,77.275166,road_intersection
+OSM_IND_0118,South Delhi Residential Area 118,Residential Area,South Delhi,28.446717,77.100609,residential_area
+OSM_IND_0119,North Delhi Road Intersection 119,Road Intersection,North Delhi,28.446276,77.275359,road_intersection
+OSM_IND_0120,North Delhi Residential Area 120,Residential Area,North Delhi,28.711266,76.921999,residential_area
+OSM_IND_0121,Noida Park 121,Park,Noida,28.429934,77.103107,park
+OSM_IND_0122,Faridabad Commercial Center 122,Commercial Center,Faridabad,28.428529,76.97889,commercial_center
+OSM_IND_0123,North Delhi Hospital 123,Hospital,North Delhi,28.442706,77.027081,hospital
+OSM_IND_0124,Central Delhi Commercial Center 124,Commercial Center,Central Delhi,28.630931,77.342312,commercial_center
+OSM_IND_0125,Faridabad Residential Area 125,Residential Area,Faridabad,28.592782,77.144562,residential_area
+OSM_IND_0126,Noida Residential Area 126,Residential Area,Noida,28.751586,76.943757,residential_area
+OSM_IND_0127,Faridabad Railway Station 127,Railway Station,Faridabad,28.75046,77.361295,railway_station
+OSM_IND_0128,Noida Park 128,Park,Noida,28.563211,77.190862,park
+OSM_IND_0129,Noida School 129,School,Noida,28.738693,77.084448,school
+OSM_IND_0130,West Delhi Park 130,Park,West Delhi,28.495843,77.212624,park
+OSM_IND_0131,South Delhi Metro Station 131,Metro Station,South Delhi,28.407564,77.202537,metro_station
+OSM_IND_0132,Noida Metro Station 132,Metro Station,Noida,28.400439,77.08792,metro_station
+OSM_IND_0133,West Delhi Metro Station 133,Metro Station,West Delhi,28.789651,77.200757,metro_station
+OSM_IND_0134,Noida Metro Station 134,Metro Station,Noida,28.445734,76.935517,metro_station
+OSM_IND_0135,Gurgaon Road Intersection 135,Road Intersection,Gurgaon,28.742536,76.974834,road_intersection
+OSM_IND_0136,South Delhi Railway Station 136,Railway Station,South Delhi,28.590574,77.114685,railway_station
+OSM_IND_0137,North Delhi School 137,School,North Delhi,28.845904,77.044651,school
+OSM_IND_0138,Central Delhi Residential Area 138,Residential Area,Central Delhi,28.832546,77.279377,residential_area
+OSM_IND_0139,West Delhi Market 139,Market,West Delhi,28.836329,77.370425,market
+OSM_IND_0140,Gurgaon Hospital 140,Hospital,Gurgaon,28.793759,77.424832,hospital
+OSM_IND_0141,Central Delhi Metro Station 141,Metro Station,Central Delhi,28.711414,77.112545,metro_station
+OSM_IND_0142,Gurgaon Park 142,Park,Gurgaon,28.794223,77.430074,park
+OSM_IND_0143,North Delhi Hospital 143,Hospital,North Delhi,28.747954,77.398957,hospital
+OSM_IND_0144,Gurgaon Hospital 144,Hospital,Gurgaon,28.636276,76.9511,hospital
+OSM_IND_0145,West Delhi Market 145,Market,West Delhi,28.417114,77.010456,market
+OSM_IND_0146,Noida Police Station 146,Police Station,Noida,28.70999,76.96106,police_station
+OSM_IND_0147,West Delhi Road Intersection 147,Road Intersection,West Delhi,28.71065,77.180033,road_intersection
+OSM_IND_0148,South Delhi Railway Station 148,Railway Station,South Delhi,28.48179,77.159424,railway_station
+OSM_IND_0149,Central Delhi Commercial Center 149,Commercial Center,Central Delhi,28.435486,77.266562,commercial_center
+OSM_IND_0150,Faridabad Metro Station 150,Metro Station,Faridabad,28.519648,77.328021,metro_station
+OSM_IND_0151,North Delhi School 151,School,North Delhi,28.669743,77.151896,school
+OSM_IND_0152,Faridabad Residential Area 152,Residential Area,Faridabad,28.554654,77.175539,residential_area
+OSM_IND_0153,Noida Police Station 153,Police Station,Noida,28.707372,77.017107,police_station
+OSM_IND_0154,North Delhi Railway Station 154,Railway Station,North Delhi,28.74478,77.389746,railway_station
+OSM_IND_0155,Noida Metro Station 155,Metro Station,Noida,28.66714,77.355128,metro_station
+OSM_IND_0156,West Delhi Residential Area 156,Residential Area,West Delhi,28.527394,77.058234,residential_area
+OSM_IND_0157,North Delhi Residential Area 157,Residential Area,North Delhi,28.465301,77.20147,residential_area
+OSM_IND_0158,Gurgaon Commercial Center 158,Commercial Center,Gurgaon,28.578456,77.298136,commercial_center
+OSM_IND_0159,North Delhi Park 159,Park,North Delhi,28.496959,77.435416,park
+OSM_IND_0160,Central Delhi Police Station 160,Police Station,Central Delhi,28.416601,76.955529,police_station
+OSM_IND_0161,Noida Market 161,Market,Noida,28.427884,77.05999,market
+OSM_IND_0162,North Delhi Police Station 162,Police Station,North Delhi,28.411003,77.430251,police_station
+OSM_IND_0163,West Delhi Residential Area 163,Residential Area,West Delhi,28.516701,77.445366,residential_area
+OSM_IND_0164,Faridabad School 164,School,Faridabad,28.440003,76.90829,school
+OSM_IND_0165,Gurgaon Metro Station 165,Metro Station,Gurgaon,28.558757,77.23353,metro_station
+OSM_IND_0166,Faridabad Market 166,Market,Faridabad,28.695694,76.90747,market
+OSM_IND_0167,Central Delhi Market 167,Market,Central Delhi,28.740939,77.118087,market
+OSM_IND_0168,Central Delhi Market 168,Market,Central Delhi,28.677401,77.254944,market
+OSM_IND_0169,Noida Commercial Center 169,Commercial Center,Noida,28.495825,76.915556,commercial_center
+OSM_IND_0170,Noida School 170,School,Noida,28.840769,77.073166,school
+OSM_IND_0171,South Delhi Market 171,Market,South Delhi,28.803198,76.92842,market
+OSM_IND_0172,Central Delhi School 172,School,Central Delhi,28.568463,77.31781,school
+OSM_IND_0173,Noida Metro Station 173,Metro Station,Noida,28.778102,77.355594,metro_station
+OSM_IND_0174,Gurgaon Hospital 174,Hospital,Gurgaon,28.431033,77.317634,hospital
+OSM_IND_0175,North Delhi Market 175,Market,North Delhi,28.726549,77.118474,market
+OSM_IND_0176,Faridabad School 176,School,Faridabad,28.423178,77.073216,school
+OSM_IND_0177,West Delhi Police Station 177,Police Station,West Delhi,28.834215,77.367108,police_station
+OSM_IND_0178,West Delhi Market 178,Market,West Delhi,28.812768,77.041468,market
+OSM_IND_0179,Noida Residential Area 179,Residential Area,Noida,28.849041,77.172975,residential_area
+OSM_IND_0180,Faridabad Hospital 180,Hospital,Faridabad,28.591497,77.113294,hospital
+OSM_IND_0181,West Delhi Market 181,Market,West Delhi,28.616901,77.245152,market
+OSM_IND_0182,South Delhi Metro Station 182,Metro Station,South Delhi,28.521596,77.277451,metro_station
+OSM_IND_0183,South Delhi Railway Station 183,Railway Station,South Delhi,28.792785,77.445937,railway_station
+OSM_IND_0184,Central Delhi Road Intersection 184,Road Intersection,Central Delhi,28.715114,77.008768,road_intersection
+OSM_IND_0185,Faridabad Hospital 185,Hospital,Faridabad,28.597047,77.116648,hospital
+OSM_IND_0186,South Delhi Road Intersection 186,Road Intersection,South Delhi,28.69893,77.408604,road_intersection
+OSM_IND_0187,North Delhi Road Intersection 187,Road Intersection,North Delhi,28.734238,77.281917,road_intersection
+OSM_IND_0188,Central Delhi School 188,School,Central Delhi,28.610765,77.094862,school
+OSM_IND_0189,Faridabad Hospital 189,Hospital,Faridabad,28.744014,77.089388,hospital
+OSM_IND_0190,Central Delhi Road Intersection 190,Road Intersection,Central Delhi,28.469241,76.988602,road_intersection
+OSM_IND_0191,Faridabad Metro Station 191,Metro Station,Faridabad,28.404328,77.167791,metro_station
+OSM_IND_0192,Faridabad Metro Station 192,Metro Station,Faridabad,28.820971,77.275591,metro_station
+OSM_IND_0193,Gurgaon Railway Station 193,Railway Station,Gurgaon,28.559767,77.359852,railway_station
+OSM_IND_0194,West Delhi Police Station 194,Police Station,West Delhi,28.460158,77.317351,police_station
+OSM_IND_0195,Faridabad School 195,School,Faridabad,28.442786,77.265305,school
+OSM_IND_0196,North Delhi Commercial Center 196,Commercial Center,North Delhi,28.693866,77.19154,commercial_center
+OSM_IND_0197,Faridabad Police Station 197,Police Station,Faridabad,28.7597,77.442375,police_station
+OSM_IND_0198,Gurgaon School 198,School,Gurgaon,28.40676,77.279737,school
+OSM_IND_0199,North Delhi Railway Station 199,Railway Station,North Delhi,28.66533,77.434547,railway_station
+OSM_IND_0200,South Delhi Hospital 200,Hospital,South Delhi,28.566012,77.209513,hospital
